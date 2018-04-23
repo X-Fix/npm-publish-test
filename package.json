@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/X-Fix/npm-publish-test.git"
   },
+  "publishConfig": {
+    "registry": "https://nexus.travelstart.com/repository/npm-hosted/"
+  },
   "author": "Cameron Stroebel <cameron.stroebel08@gmail.com> (www.travelstart.com)",
   "license": "MIT",
   "bugs": {
